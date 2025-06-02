@@ -18,7 +18,9 @@ The app supports real-time predictions and displays the corresponding **flower n
 
 ## 🖼️ Demo
 
-![Demo GIF or Screenshot Placeholder](demo.gif)
+![Image](https://github.com/user-attachments/assets/9d9b8349-b964-43b5-972c-418c6cae5c60)(demo.gif)
+
+![Image](https://github.com/user-attachments/assets/234024b1-e565-4228-8327-30af8a95075c)](demo.gif)
 
 ---
 
