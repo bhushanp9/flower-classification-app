@@ -19,7 +19,7 @@ The app supports real-time predictions and displays the corresponding **flower n
 ## Predict Flower
 
 Or just click here:  
-➡️ [Predict Flower](https://flower-classification-app-by-bhushan.streamlit.app/)
+➡️ [![Predict Flower](https://img.shields.io/badge/Predict%20Flower-Streamlit-brightgreen)](https://flower-classification-app-by-bhushan.streamlit.app/)
 
 
 --
