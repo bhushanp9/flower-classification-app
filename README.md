@@ -22,8 +22,6 @@ just click here:
 ## ➡️ [Predict Flower](https://flower-classification-app-by-bhushan.streamlit.app/)
 
 
---
-
 ## 🖼️ Demo
 
 ![Image](https://github.com/user-attachments/assets/9d9b8349-b964-43b5-972c-418c6cae5c60)(demo.gif)
